@@ -1,4 +1,5 @@
-# StudyNotion Online Education Platform (MERN App) 
+# StudyNotion - Education Platform
+WEBSITE LINK - https://study-notion-ed-tech-wine.vercel.app/
 
 ## Project Description
 
