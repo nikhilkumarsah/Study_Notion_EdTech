@@ -1,5 +1,5 @@
 # StudyNotion - Education Platform
-WEBSITE LINK - [Click Me](https://study-notion-ed-tech-mu.vercel.app/)
+WEBSITE LINK - [Click Me](https://study-notion-ed-tech-nikhil-p1905s-projects.vercel.app/)
 
 ## Project Description
 
