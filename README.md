@@ -59,7 +59,7 @@ logic for processing and storing the course content and user data.
 
 The database for the platform is built using MongoDB, which is a NoSQL database that
 provides a flexible and scalable data storage solution. MongoDB allows for the storage of
-unstructured and semi-structured data. The database stores the course content, user data, and other
+unstructured and semi-structured data.The database stores the course content, user data, and other
 relevant information related to the platform.
 
 
